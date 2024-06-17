@@ -1,0 +1,20 @@
+{
+    "name": "abraao_oliveira/bloco_de_notas",
+    "description": "Bloco de notas feito no padrão mvc",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "app\\controllers\\": "app/controllers/",
+            "app\\model\\": "app/model",
+            "app\\view\\": "app/view/",
+            "app\\helpers\\": "app/helpers/"
+        }
+    },
+    "authors": [
+        {
+            "name": "abraao2005",
+            "email": "abraao20001@gmail.com"
+        }
+    ],
+    "require": {}
+}
